@@ -2,13 +2,13 @@ import firebase from 'firebase';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCtICiRc5aW5XGZswXEwyYdjUNyKGeM6rM",
-  authDomain: "instory-app-f84ed.firebaseapp.com",
-  projectId: "instory-app-f84ed",
-  storageBucket: "instory-app-f84ed.appspot.com",
-  messagingSenderId: "424171683889",
-  appId: "1:424171683889:web:5e481d0c79679e38e41510",
-  measurementId: "G-PQP468BMRB"
+  apiKey: "AIzaSyBLcKsWbhRsQ7eV83a4agznAvV_ta9QvS0",
+  authDomain: "instory-app-e9db1.firebaseapp.com",
+  projectId: "instory-app-e9db1",
+  storageBucket: "instory-app-e9db1.appspot.com",
+  messagingSenderId: "897651805320",
+  appId: "1:897651805320:web:025d0419912648e00be33d",
+  measurementId: "G-X7G67G57HY"
 };
 
 
